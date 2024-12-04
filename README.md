@@ -21,7 +21,7 @@ Overcoming visual degradation in extreme environments is essential for improving
 </div>
 
 # Code
-The complete code will be released after the paper is received.
+As with our previous works(CTM, UVZ), the complete code will be released after this paper is received.
 
 # Contact
 If you have any questions, please contact: Zhixiong Huang(hzxcyanwind@mail.dlut.edu.cn)
