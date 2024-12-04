@@ -6,7 +6,7 @@ Overcoming visual degradation in extreme environments is essential for improving
 
 # Performance
 <div align=center>
-<img src="Figs/Performance_compare.jpg" width="100%">
+<img src="Figs/Performance_compare.jpg" width="70%">
 </div>
 
 # Network
