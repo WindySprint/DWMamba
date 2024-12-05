@@ -1,5 +1,5 @@
 # DWMamba
-This is the project of paper "DWMamba: A Fast, Robust, and Adaptive Mamba Network  for Underwater Image Enhancement".
+This is the project of paper "DWMamba: A Fast, Robust, and Adaptive Mamba Network for Underwater Image Enhancement".
 
 # Code
 As with our previous works([UVZ](https://github.com/WindySprint/UVZ), [CTM](https://github.com/WindySprint/CTM)), the complete code will be released after this paper is received.
