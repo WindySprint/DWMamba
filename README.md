@@ -12,11 +12,6 @@ Overcoming visual degradation in extreme environments is essential for improving
 <img src="Figs/Performance_compare.jpg" width="70%">
 </div>
 
-# Network
-<div align=center>
-<img src="Figs/Network.jpg" width="100%">
-</div>
-
 # Visual Compare
 <div align=center>
 <img src="Figs/OU_compare.jpg" width="100%">
