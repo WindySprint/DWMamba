@@ -10,7 +10,6 @@ from collections import OrderedDict
 
 from models import network
 from utils import dataloader
-from utils import dataloader_Sobel, dataloader_Scharr, dataloader_Laplacian
 
 torch.cuda.empty_cache()
 parser = argparse.ArgumentParser()
@@ -91,3 +90,4 @@ if __name__ == '__main__':
     start_time = time.time()
     test(config)
     print("test_time:"+str((time.time()-start_time)))
+
