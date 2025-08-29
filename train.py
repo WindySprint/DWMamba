@@ -10,7 +10,6 @@ from warmup_scheduler import GradualWarmupScheduler
 
 from models import network
 from utils import dataloader, losses
-from utils import dataloader_Sobel, dataloader_Scharr, dataloader_Laplacian
 
 torch.cuda.empty_cache()
 parser = argparse.ArgumentParser()
@@ -163,3 +162,4 @@ if __name__ == "__main__":
     train(config)
     e = time.time()
     print("train_time:"+str(time.time()-start_time))
+
